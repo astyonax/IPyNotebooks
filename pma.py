@@ -1,3 +1,5 @@
+# author Guglielmo Saggiorato
+# url: https://github.com/astyonax/IPyNotebooks/raw/master/pma.py
 import numpy as np
 
 def pma(data,axis=0):
